@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:androi="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape androi:shape="rectangle">
+            <stroke androi:width="1dp" androi:color="#FF000000"/>
+            <solid androi:color="#FFDDDDDD"/>
+        </shape>
+    </item>
+    <item androi:bottom="1dp">
+        <shape androi:shape="rectangle">
+            <stroke androi:width="1dp" androi:color="#FFDDDDDD"/>
+            <solid androi:color="#00000000"/>
+        </shape>
+    </item>
+</layer-list>

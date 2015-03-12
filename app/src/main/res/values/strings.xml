@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">备忘录</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">设置</string>
+    <string name="title_activity_list">备忘列表</string>
+    <string name="title_activity_create">新建备忘</string>
+    <string name="title_activity_register">注册账户</string>
+
+</resources>
